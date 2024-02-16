@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wanou38
-- 👀 I’m interested in electronic desing, debian system admin, rust dev, perl dev
-- 🌱 I’m currently learning rust, vault, responsive web, 
+- 👀 I’m interested in electronic desing, debian system admin, rust dev, perl dev, c dev and python dev
+- 🌱 I’m currently learning rust, vault, responsive web, and git
 - 💞️ I’m looking to collaborate on nothing more due to my active collaboration to several associations
 - 📫 How to reach me: dev.erwan@wanou.org
 
